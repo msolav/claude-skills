@@ -87,10 +87,30 @@ CALQ separates **artistic evaluation** (scored) from **administrative evaluation
 What "interest and relevance" actually contains varies by component, and this is where applications are won:
 - *Creation:* artistic value of the project · composition of the team · **impacts and spin-offs** · **effect on the evolution of the applicant's work**
 - *Exploration and Research:* interest for the advancement of artistic practices · **novelty of the project** · **rigour and articulation of the research process** · effect on the evolution of the work
-- *Travel:* **interest and impact on career development and the visibility of the work** · quality of the host organization's commitment
-- *Circulation (in/out of Quebec):* quality and artistic interest of the activity presented · **relevance of partners and host structures** · **quality of the host organization's commitment**
+- *Public Presentation:* artistic value · team · impact on the evolution of the work · **scope of the planned dissemination** (attendance, number of presentations, territories) · **suitability of the hosting structures**
+- *Travel:* **interest and impact on career development and the influence of the work** · **value and suitability of the host organization or event** · **quality of the host organization's commitment**
+- *Circulation Outside/Within Quebec:* benefits for the applicant and participating artists · **scope of the planned dissemination** · **suitability of partners and hosting structures** · **quality of the host organization's commitment**
 - *Professional Development:* quality of the training program · **choice of host structure, master, or mentor** · effect on the evolution of the work/career
-- *Publication:* interest of the author's approach · relevance and involvement of partners · **quality of promotion and distribution strategy**
+- *Publication:* benefits for applicant and artists · **impact on the advancement of knowledge in the arts** · interest of the author's approach · suitability and involvement of partners · **quality of promotion strategies and distribution plan**
+- *Strategic Opportunities:* **articulation of the project and interest of the overall activities plan** · team · impact on the evolution of the work *and career* · quality and suitability of partners · **contribution to the artistic discipline** · scope of planned presentation
+
+Note how often **the host/partner is itself a scored item.** On Travel, Circulation and Professional Development, *who agreed to host you and how committed they are* is worth more than your portfolio. Choose the partner as carefully as the project, and get them to write something specific.
+
+### CALQ amounts and caps (verified July 2026)
+
+| Component | Maximum |
+|---|---|
+| **Travel** | **No maximum** |
+| Circulation Outside Quebec | **75% of total project cost** |
+| Circulation Within Quebec | (see guidelines) |
+| Strategic Opportunities and Career Planning | **$100,000/year**, can be granted over several years |
+| Publication and Critical Documentation | **$20,000** |
+| Living expenses (accommodation + per diem) | **$200/day/participant**, in *and* outside Canada |
+| Administration expenses (Strategic Opportunities) | max **10% of total cost** |
+
+**Eligible expenses are only counted from the project start date.** Money spent before that is not recoverable.
+
+One more asymmetry worth knowing: **Travel has only *one* administrative criterion** (project management — feasibility of the travel plan, the budget, and the host's financial participation). Every other component has **two** (remuneration *and* project management). So Travel is the one place where artist remuneration is not an administrative gate — consistent with the fact that Travel doesn't fund artist fees at all.
 
 **Track 2 — Administrative evaluation.** Two criteria, both of which must be rated at least **"Satisfactory"**:
 1. **Remuneration of artists and collaborators** — fairness of the applicant's own pay, and of the team's
@@ -120,6 +140,13 @@ The French pages (`/aides/<slug>/`) carry the criteria; the English pages often 
 ## Conseil des arts de Montréal (CAM) — municipal
 
 ~59 programs, filterable by profile (artists / collectives / cultural workers / organizations), discipline, and type of aid ("carry out a project," "develop my practice," "equip myself"). Montreal residency/practice is the gating condition. **CAM is the most under-used of the three levels** — artists routinely apply federally and provincially and skip the municipal layer entirely. Check `artsmontreal.org/en/grants/programs` at intake.
+
+Unlike CCA and CALQ, **CAM programs are mostly fixed-deadline, once-a-year, and often partnered with a specific host institution** — so they are won by being ready when the window opens, not by writing faster. Two examples that show the shape:
+
+- **Intersections** — a **three-month research residency at OPTICA centre d'art contemporain** for **immigrant (first- or second-generation) artists belonging to an ethnic or visible minority**, in visual or media arts. Includes workspace, access to OPTICA's archives, professional mentoring, a **culminating exhibition at OPTICA**, and a public talk. The work must draw on archives to create a dialogue. *(Deadline observed: November 21.)*
+- **The CAM en tournée (Touring Program)** — circulates an **already-publicly-shown** artistic project across the Island of Montréal via the *Maisons de la culture* network. Open to unincorporated collectives, non-profit arts organizations, and — importantly — **individual visual artists and professional visual arts curators** (most CAM touring streams exclude individuals; this one doesn't). *(Deadline observed: October 1.)*
+
+**Deadlines shift annually — verify.** But note the pattern: CAM is where an *existing* body of work gets a second life and a Montreal audience, which is exactly the "what happens to the work afterward" question that CALQ and CCA score you on.
 
 ---
 

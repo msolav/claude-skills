@@ -87,12 +87,27 @@ Rolling deadline, **4 weeks minimum lead time**, ~8-week response. Plan flights 
 
 Quebec has real, funded, institutional infrastructure into Asia. Most artists don't know it exists.
 
-### CALQ studio-residency exchanges
-- **Japan — Tokyo**, in partnership with **TOKAS (Tokyo Arts and Space)** since 2015. A **three-month residency** for a Quebec artist in **visual arts or digital arts**, with **at least five years of practice**, with a grant reported around **$11,000**. Enabled with the Ministère des Relations internationales et de la Francophonie and the **Délégation générale du Québec in Tokyo**.
-- **South Korea** — artist and studio-apartment residency exchanges between Quebec and Korea.
-- CALQ's wider network spans **four continents, ~40 residency possibilities**, and it keeps expanding (recent additions in Toulouse, Guadeloupe, Catalonia, Marseille). **Check the live list every cycle** — the roster changes yearly and the Asian slots are among the least-applied-to.
+### CALQ studio-residency exchanges (verified from program documents, July 2026)
 
-These are **competitive, discipline-restricted, and deadline-based** (unlike most CALQ artist grants, which are rolling). They also frequently carry an experience floor — the Tokyo/TOKAS route requires five years of practice. Verify before investing effort.
+Both are **three-month exchanges with a $12,000 grant**, a free furnished studio-apartment, **fixed annual deadlines** (unlike CALQ's rolling artist grants), and a reciprocal Korean/Japanese artist hosted at **Centre d'art et de diffusion CLARK** in Montréal.
+
+| | **Japan — TOKAS, Tokyo** | **South Korea — MMCA Goyang, Seoul** |
+|---|---|---|
+| Disciplines | Visual arts **and digital arts** | **Visual arts only** |
+| Experience floor | **5 years** of practice | **2 years** of practice |
+| Sojourn | **May–July 2027** | **July–September 2027** |
+| Grant | **$12,000** | **$12,000** |
+| Deadline | June 11, 2026 *(closed for this cycle)* | **July 29, 2026, 23:59** |
+| Partner since | 2015 | 2015 (MMCA) |
+
+- **TOKAS** (Tokyo Arts and Space, Sumida Ward): 25 m² furnished studio; shared kitchen, computer room, library, collective workspaces. Residents **may be asked to take part in public exhibition activities** across TOKAS Hongo and TOKAS Shibuya — talks, workshops, exhibitions. Backed by the MRIF and the **Délégation générale du Québec in Tokyo**.
+- **MMCA Goyang** (National Museum of Modern and Contemporary Art, Korea): 2,500 m² complex, 18 studio-residences of 61–66 m², **wood and metal workshops**, exhibition space, communal kitchen, walled garden. MMCA organizes **Open Studio days and meetings with curators, gallery directors and representatives of other Korean museums** — i.e. the prospecting is built into the residency.
+
+**The two-year floor on Korea is the important detail.** It is the most accessible serious Asian residency available to a Quebec visual artist, and far less restrictive than Japan's five-year requirement.
+
+**Evaluation for both** is three unweighted criteria — *artistic quality of the work · interest and relevance of the project · feasibility of the project* — judged on **comparative value against the other applications and the available credits**. Note "feasibility" is a full third here, unlike the rolling artist grants where it is a pass/fail gate.
+
+CALQ's wider network spans **four continents, ~40 residencies**, and keeps expanding (recent additions: Toulouse, Guadeloupe, Catalonia, Marseille). **Check the live roster every cycle** — it changes yearly, and the Asian slots are among the least-applied-to.
 
 ### Canada Council
 **Arts Across Canada and Abroad → International Residencies** funds artists to attend a residency abroad; **Circulation and Touring** moves exhibitions internationally; **Representation and Promotion** funds travel for market development. All are fixed-deadline. **International Co-productions** exists for groups/organizations partnering with a foreign organization — relevant if the artist is working through a collective or an artist-run centre.

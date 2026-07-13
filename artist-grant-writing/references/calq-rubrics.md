@@ -121,4 +121,8 @@ Whatever the scale, these are the tests:
 
 ## Coverage note
 
-Grids obtained and encoded: **Creation, Exploration and Research, Public Presentation, Professional Development** (EN 2025–26) + Création (FR). Still to obtain: **Travel, Circulation Within/Outside Quebec, Publication and Critical Documentation, Strategic Opportunities**. The weightings for those are in `funders.md`; the band language is not yet verified — do not assume it mirrors the four above, since Public Presentation already proved that components carry sub-criteria and administrative gates the others don't.
+**Full band language (Excellent→Poor) verified** for: **Creation, Exploration and Research, Public Presentation, Professional Development** (EN grids 2025–26) + Création (FR).
+
+**Weightings and sub-criteria verified, band language not yet obtained** for: **Travel, Circulation Within Quebec, Circulation Outside Quebec, Publication and Critical Documentation, Strategic Opportunities** — see `funders.md` for their criteria.
+
+For those five, the *structure* is confirmed identical (100% artistic split two ways + an administrative gate), so the two headline lessons above almost certainly transfer: **"Good" means merely clear**, and **"not demonstrated" is the dominant failure mode**. But do not assume the sub-criteria mirror the four grids above — Public Presentation and Strategic Opportunities each carry sub-criteria and administrative gates the others don't. Ask the program officer for the grid; CALQ links one from every program page.

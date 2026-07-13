@@ -67,6 +67,18 @@ Peer assessment committee. **Impact leads here — the only component where it d
 - Eligible: artist fees (state whether based on **standard rates set by artists' associations or unions** — i.e. CARFAC-RAAV), project management fees, touring production/exhibition, per diems and accommodation, transport/shipping/crating, **visas and travel insurance**, promotion.
 - **Start date must be after the application deadline.**
 
+### 6601 — Micro-grants *(Arts Across Canada and Abroad)*
+⚠️ **Internally assessed** by Council staff. **Only two criteria** — the simplest component in the system, and the best entry point for a first-time applicant.
+
+| Criterion | Weight | Min |
+|---|---|---|
+| **Relevance and impact** | **60%** | 35/60 |
+| **Feasibility** | 40% | 25/40 |
+
+- **Up to $10,000 per application**; **3 applications/year**.
+- Supports activities advancing an artistic career or practice. Rolling — apply any time before the project or departure.
+- No artistic-merit criterion. Argue relevance, impact, and that you can actually do it.
+
 ### 6602 — Representation and Promotion *(Arts Across Canada and Abroad)*
 ⚠️ **Internally assessed — not a peer committee.** Council staff score it. Write it plainer and more factual; there is no room-full-of-artists to charm.
 
@@ -111,6 +123,8 @@ This is the most actionable sentence the Council publishes. Ten minutes covers t
 - **CV: 3 pages maximum.** Writing samples: 10–20 pages max. Visual/audio documentation per the form.
 - **Test that your files actually open before submitting.**
 - **Missing required support material makes the application ineligible** — including the written confirmations from collaborators and partners, which are uploaded *in the support material section*, not the form body.
+
+**Video/file specs (from the portal):** 500 MB maximum · 1080p maximum resolution (frame size 1920 × 1080) · 60 FPS maximum. Exceeding these risks a file that won't play for the assessor — which, inside a 10-minute budget, is the same as not submitting it.
 
 ---
 
