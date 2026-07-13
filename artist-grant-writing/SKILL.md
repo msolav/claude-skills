@@ -42,7 +42,11 @@ Order of construction that works:
 6. **Summary line** — write last, from the finished thing
 
 ### 4. Run the jury simulation
-Before declaring a draft done, review it in the voice of a tired peer assessor who has read 60 applications today, using only the published criteria. Score each criterion out of its weight. Name the weakest criterion and fix that one first. Assessors rank comparatively against other applications in the same cohort — "good" is not the bar; "better than the next one" is.
+Before declaring a draft done, review it in the voice of a tired peer assessor who has read 60 applications today, using only the published criteria. Score each criterion out of its weight. Name the weakest criterion and fix that one first.
+
+For CALQ, score against the **actual published band language** in `calq-rubrics.md` — and note that "Good" there means *"the project is interesting and the intention is clearly defined."* Clarity earns the middle band. Assessors rank comparatively against the other applications in the cohort; "good" is not the bar.
+
+**Then run the demonstration pass.** The most repeated failure phrase across every CALQ rubric is *"not demonstrated."* Go sub-criterion by sub-criterion and point at the sentence that demonstrates it. If you cannot point at one, the jury cannot either — and applications routinely lose points for things that were true but unstated.
 
 ### 5. Ship checklist
 - Every question answered *in the box provided* — never "see attached"
@@ -72,6 +76,7 @@ Load these as needed — do not read them all up front.
 |---|---|
 | `references/funders.md` | Choosing a funder/component; eligibility, deadlines, the 2025 CCA restructure, **CALQ criteria weightings** |
 | `references/cca-components.md` | Applying to **Canada Council**: verified criteria weights, minimum scores, character limits, caps, the 10-minute support-material rule |
+| `references/calq-rubrics.md` | Applying to **CALQ**: the jury's actual score-band language (Excellent→Poor) per sub-criterion. **Read before drafting and again before the jury simulation** — it is the marking scheme. |
 | `references/writing-craft.md` | Drafting or editing any narrative section; running the jury simulation; killing clichés |
 | `references/budgets-and-fees.md` | Building a budget; CARFAC-RAAV fees, per diems, in-kind, contingency, common budget failures |
 | `references/visual-arts.md` | **Visual artists**: research, production, experimentation, travel, exhibition, residencies — locally, in Canada, and in Asia |

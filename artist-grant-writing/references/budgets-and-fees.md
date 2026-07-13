@@ -56,6 +56,8 @@ A budget's job: **demonstrate feasibility and cohesion.** A jury reads a budget 
 
 The **CARFAC-RAAV Minimum Recommended Fee Schedule** is the national standard for what visual and media artists are paid for copyright and professional services. Using it does three things: pays the artist properly, makes the budget instantly credible to a visual-arts jury, and satisfies the "fair and equitable compensation" test CALQ applies administratively.
 
+**But note the ceiling.** CALQ's own jury rubric rates remuneration that "respects the established minimum standards" as merely **"Satisfactory"** — the middle band. Pay sitting "rightly above the standards of collective agreements or minimum scales" rates **"Very good."** So the minimum fee schedule is the *floor*, not the target. And the rubric penalizes rates where **"no justification is presented"** — so **justify the rate in the budget notes** against the artist's years of experience, don't just assert the number. See `calq-rubrics.md`.
+
 **2026 exhibition royalties** — solo exhibition, up to 3 months (CAD, pre-tax), by presenting institution's operating-budget category:
 
 | Category (institution's operating budget) | Solo | Retrospective (+15%) | Project (−15%) | Single work (20%) |
