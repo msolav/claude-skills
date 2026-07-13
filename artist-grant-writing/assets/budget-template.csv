@@ -1,0 +1,38 @@
+SECTION,LINE ITEM,DESCRIPTION / SOURCE OF QUOTE,QTY,UNIT,UNIT COST,TOTAL,NOTES
+EXPENSES,,,,,,,
+Artist fees,Artist fee / subsistence,"Basis: CARFAC-RAAV [category] or [$X/day x N days]",,month,,,Not optional. Justify the rate.
+Artist fees,Exhibition royalty,"CARFAC-RAAV [year], [venue] Category [I/II/III/Intl]",,exhibition,,,Only if venue is not paying it directly
+Artist fees,Assistant / technician,Named where possible; fair rate,,day,,,
+Production,Materials,Itemize by material with real quotes,,,,,No round numbers
+Production,Studio / production space rent,,,month,,,
+Production,Equipment rental,Rent — most funders do not fund purchase,,,,,
+Production,Fabrication / external services,"Foundry, printing, framing, editioning",,,,,Get written quotes
+Production,Documentation,Professional photo/video of the work,,,,,Funds your next application
+Circulation,Crating & packing,,,,,,
+Circulation,Freight / shipping,Get a real quote from a shipper,,,,,
+Circulation,Customs / brokerage / ATA Carnet,International only,,,,,
+Circulation,Insurance in transit,,,,,,
+Travel,Airfare / transport,,,,,,
+Travel,Ground transport,,,,,,
+Travel,Accommodation + per diem,"CALQ cap: $200/day/person all-in",,day,,,Check the cap
+Travel,"Visas, vaccinations, travel insurance",,,,,,
+Travel,Translation / interpretation,Statement / didactic material / install interpreter,,,,,Eligible on CALQ Travel
+Presentation,Promotion & publicity,Only if not covered by host,,,,,
+Presentation,Install / de-install,,,,,,
+Admin,Administrative costs,"CALQ Circulation: max 10% of total budget",,,,,Check the cap
+Admin,Contingency,5–10% where permitted,,,,,
+,,,,,,,
+,,,,,SUBTOTAL EXPENSES,0,
+,,,,,,,
+REVENUES,,,,,,,
+Requested,This application,[Funder + component],,,,,Check funder's maximum share
+Grants,[Other funder 1],Status: CONFIRMED / PENDING / TO BE REQUESTED,,,,,Label status honestly
+Grants,[Other funder 2],Status: CONFIRMED / PENDING / TO BE REQUESTED,,,,,
+Earned,Presenter / venue fee,,,,,,Do not also claim as expense
+Earned,Sales / editions,,,,,,
+Own,Artist's own contribution,Signals investment — legitimate,,,,,
+In-kind,[Donated space / equipment / labour],Enter SAME value in expenses,,,,,Must appear in both columns
+,,,,,,,
+,,,,,SUBTOTAL REVENUES,0,
+,,,,,,,
+,,,,,NET (must be 0 or small surplus),0,Never submit a deficit
