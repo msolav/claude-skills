@@ -119,6 +119,24 @@ CALQ's wider network spans **four continents, ~40 residencies**, and keeps expan
 - **Asia Pacific Foundation of Canada** — occasional cultural mobility support
 - Major biennials/fairs as prospecting anchors: Gwangju, Busan, Aichi, Yokohama, Setouchi, Art Basel Hong Kong, Kyotographie, Taipei Biennial
 
+### Working in a host culture abroad — the argument you have to win
+
+For any project sited in a country the artist is not from — and this applies with full force outside the residency circuit of Tokyo/Seoul, e.g. **Nepal, Vietnam, Indonesia, India** — a peer jury of working artists is silently asking one question: **is this reciprocal, or is this extraction?**
+
+They have read many applications in which a Western artist travels somewhere poorer, photographs it, and brings the work home to a Montreal gallery. That framing loses, and it should. It is also easy to fall into unintentionally.
+
+**RECAP does not apply here.** The Council's RECAP criterion is specific to First Nations, Inuit and Métis content in Canada — answer "no" honestly if there is no Indigenous-Canadian content. But the *ethical scrutiny* RECAP formalizes is applied informally by juries to any cross-cultural project, and CALQ's "quality of the host organization's commitment" plus CCA's "authentic and respectful engagement" language give them the vocabulary to act on it.
+
+What actually answers the question:
+
+- **A named local partner with a stake**, not a fixer. An institution, artist-run space, collective, or curator who is *doing something* in the project — co-organizing, co-exhibiting, hosting a talk — and who has said so in writing.
+- **Reciprocity that costs you something.** What flows back? A public presentation *there*, work left with the host institution, a shared publication, fees paid to local collaborators at a fair local-professional rate (budget them — an unpaid local collaborator is visible from Montreal).
+- **A reason it must be *there*** that isn't aesthetic tourism. The material, the technique, the archive, the community, the collaborator — something that genuinely cannot be accessed elsewhere.
+- **Named credit.** Local collaborators named as collaborators, not thanked as helpers.
+- **Honesty about your position.** An outsider's perspective is a legitimate artistic position when it is *declared as one*. It fails when it is disguised as authority over someone else's culture.
+
+**Practical:** budget interpretation and translation, permits, and local fees; check visa category; check whether exporting/importing work requires a carnet or cultural-property clearance. And do not name a partner you have not actually spoken to — juries in a small art world sometimes know them.
+
 ### Practical realities for an Asia project — address these explicitly or the jury will assume you haven't thought about them
 - **Visas.** Japan and Korea have specific artist/cultural-activity visa routes. Name the visa type. Budget the cost.
 - **Shipping and customs.** Crating, freight, **ATA Carnet** for temporary export of artworks, customs brokerage, insurance in transit. This is where international budgets quietly explode; get quotes.

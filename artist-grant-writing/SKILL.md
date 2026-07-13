@@ -77,6 +77,7 @@ Load these as needed — do not read them all up front.
 | `references/funders.md` | Choosing a funder/component; eligibility, deadlines, the 2025 CCA restructure, **CALQ criteria weightings** |
 | `references/cca-components.md` | Applying to **Canada Council**: verified criteria weights, minimum scores, character limits, caps, the 10-minute support-material rule |
 | `references/calq-rubrics.md` | Applying to **CALQ**: the jury's actual score-band language (Excellent→Poor) per sub-criterion. **Read before drafting and again before the jury simulation** — it is the marking scheme. |
+| `references/answering-guide.md` | **Filling in the actual form.** Field-by-field: what each question is really testing, character limits, required documents, what the jury never sees |
 | `references/writing-craft.md` | Drafting or editing any narrative section; running the jury simulation; killing clichés |
 | `references/budgets-and-fees.md` | Building a budget; CARFAC-RAAV fees, per diems, in-kind, contingency, common budget failures |
 | `references/visual-arts.md` | **Visual artists**: research, production, experimentation, travel, exhibition, residencies — locally, in Canada, and in Asia |
