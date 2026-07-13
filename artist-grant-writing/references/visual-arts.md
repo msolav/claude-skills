@@ -10,18 +10,23 @@ The most common and most expensive mistake a visual artist makes is applying to 
 
 | The artist wants to… | CALQ | Canada Council | Also consider |
 |---|---|---|---|
-| Test materials, sit with an unresolved question, experiment with no guaranteed outcome | **Exploration and Research** | **Explore and Create → Artistic Creation** (early-stage) | CAM "develop my practice" |
-| Make a specific new body of work | **Creation** | **Artistic Creation** | CAM project grants |
-| Take a workshop, train, learn a technique, mentorship | **Professional Development** | *Supporting Artistic Practice* | ELAN / YES / artist-run centre programs |
-| Attend an opening, a fair, a symposium; prospect; meet curators | **Travel** | *Arts Across Canada and Abroad* → **Representation and Promotion** or **Micro-grants** | Délégations générales du Québec |
-| Exhibit / present the work publicly | **Public Presentation** | — | CAM |
-| Tour or circulate an exhibition beyond Quebec | **Circulation of Works Outside Quebec** | **Circulation and Touring** | — |
-| Circulate within Quebec | **Circulation of Works Within Quebec** | — | CAM, regional partnerships |
-| Do a residency abroad | CALQ **studio/residency exchanges** (see below) | **International Residencies** | Host institution's own funding |
-| Produce a catalogue, monograph, critical text | **Publication and Critical Documentation** | — | — |
-| Something career-decisive that fits nothing above | **Strategic Opportunities and Career Planning** | — | — |
+| Test materials, sit with an unresolved question, experiment with no guaranteed outcome | **Exploration and Research** (30/70) | **Artistic Creation** `1006` (early-stage) | CAM "develop my practice" |
+| Make a specific new body of work | **Creation** (30/70) | **Artistic Creation** `1006` — up to $75k | CAM project grants |
+| Take a workshop, train, learn a technique, mentorship | **Professional Development** (40/60) | *Supporting Artistic Practice* | ELAN / YES / artist-run centre programs |
+| Attend an opening, a fair, a symposium; prospect; meet curators | **Travel** (40/60) | **Representation and Promotion** `6602` — up to $30k, *internally assessed* | Micro-grants; Délégations générales du Québec |
+| Exhibit / present the work publicly | **Public Presentation** (30/70) | — | CAM |
+| Tour or circulate an exhibition beyond Quebec | **Circulation Outside Quebec** (40/60) | **Circulation and Touring** `6004` — up to $200k but **max 50% of costs** | — |
+| Circulate within Quebec | **Circulation Within Quebec** (40/60) | **Circulation and Touring** `6004` | CAM, regional partnerships |
+| Do a residency abroad | CALQ **studio/residency exchanges** (see below) | **International Residencies** `6605` — up to $20k | Host institution's own funding |
+| Produce a catalogue, monograph, critical text | **Publication and Critical Documentation** (40/60) | — | — |
+| Something career-decisive that fits nothing above | **Strategic Opportunities** (30/70) | — | — |
 
-**Watch the boundary between Travel and Circulation.** Travel funds *you* going somewhere (and explicitly **excludes** artist fees, production costs, and the transport of artworks). Circulation funds *the work* going somewhere (and includes crating, shipping, insurance, customs). An artist flying to Seoul to install their own exhibition is usually a Circulation project, not a Travel one. Getting this wrong wastes an application and one of a limited number of in-flight slots.
+**Watch the boundary between Travel and Circulation.** Travel funds *you* going somewhere (CALQ Travel explicitly **excludes** artist fees, production costs, and the transport of artworks). Circulation funds *the work* going somewhere (crating, shipping, insurance, customs). An artist flying to Seoul to install their own exhibition is usually a Circulation project, not a Travel one. Getting this wrong wastes an application and one of a limited number of in-flight slots.
+
+**Three CCA traps for visual artists:**
+- **Artistic Creation is not an exhibition grant.** Projects "mainly focused on public sharing, dissemination or touring… without an element of creation" are **ineligible**. Public sharing must ride along with creation, not replace it.
+- **Its Artistic minimum is 35/50 — a 70% threshold on the single biggest criterion.** This is the hardest gate in the Canadian system.
+- **Representation and Promotion doesn't score artistic quality at all.** It is a market-development grant, assessed internally by staff. Argue the market and the event; don't send a poetic statement about the work.
 
 ---
 

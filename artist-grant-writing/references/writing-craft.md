@@ -71,6 +71,8 @@ Two traps:
 
 For most visual-arts juries the images *are* the artistic-merit score. Text supports the images; it does not substitute for them.
 
+**You get about ten minutes.** The Canada Council instructs assessors to view as much support material as they need — "generally, this means **10 minutes maximum per application**." That is the budget for your *entire* package. Extra material does not buy extra minutes; it spends the same ten on weaker work. Front-load the strongest image, the strongest 30 seconds. Curate toward the proposal, not toward a career.
+
 - **Follow the spec exactly** — number of images, file formats, video duration, page counts. Over-delivering is not generosity; it is an instruction-following failure, and excess material may simply be ignored or the application penalized.
 - **Professional-quality documentation.** Not phone snapshots of works on a studio floor. Include installation views — juries need to see how the work occupies space.
 - **Image list** with title, medium, dimensions, year for every image. This is mandatory nearly everywhere and routinely botched.

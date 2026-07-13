@@ -22,8 +22,9 @@ The Council **rebuilt its granting architecture in 2025**. Program names in olde
 
 ### How CCA decides
 
-- **Peer assessment.** Committees of working artists/professionals, selected to reflect Canada's regional, cultural, linguistic, disciplinary, age, gender and accessibility diversity.
-- **Scoring.** Each component uses **2 to 4 categories of assessment criteria totalling 100**, each with a **minimum threshold** that must be met. Weightings and thresholds **vary by component** and are published in that component's guidelines. **Do not assume a split** — a widely-circulated "50/30/20" figure floats around unofficial grant-aggregator sites; treat it as unverified.
+- **Peer assessment.** Committees of working artists/professionals, selected to reflect Canada's regional, cultural, linguistic, disciplinary, age, gender and accessibility diversity. **Exception:** some components (e.g. *Representation and Promotion*) are **internally assessed by Council staff**, not by a peer committee. The guidelines say which. It changes how you write.
+- **Scoring.** Each component uses **2 to 4 criteria totalling 100**, each with a **minimum threshold**. Weightings and thresholds **vary by component** — there is no house split. Verified figures for four components are in **`cca-components.md`**; for anything else, pull the guidelines.
+- **RECAP** — *Respectful and Ethical Cultural and Artistic Practices* — is a **pass/fail gate on every component**, on top of the scored criteria.
 - **Preliminary assessment** narrows the field for project grants before discussion and ranking. Core/operating grants skip this step.
 - **Comparative ranking.** Applications are ranked in order of merit against each other, not against an absolute standard.
 - **Context briefs** — written documents given to assessors to help them understand emerging, minoritized, Indigenous, culturally diverse, and Deaf/disability practices. Relevant if a practice sits outside a jury's default frame.

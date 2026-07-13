@@ -62,11 +62,25 @@ Fill this **with** the artist before drafting anything. Blanks here become weakn
 
 ## 7. Support material
 
+*Assessors give roughly **10 minutes total** to the whole package (CCA's own instruction). Curate accordingly.*
+
 - Required: count, format, duration limits:
 - Images selected and curated toward *this* proposal? ☐
+- Strongest image first / strongest 30 seconds of video first? ☐
 - Image list complete — title, medium, dimensions, year for each? ☐
 - Installation views included (where relevant)? ☐
+- CV within page limit (CCA: 3 pages max)? ☐
+- Written confirmations from collaborators/partners uploaded **in the support material section**? ☐
 - Letters of support requested (≥1 month lead)? ☐
+- Files tested and opening correctly? ☐
+
+*Missing required support material = **ineligible**, not merely scored down.*
+
+## 7b. RECAP (Canada Council — pass/fail on every component)
+
+- Does the project involve Indigenous content, cultural materials, or protocols? ☐ Yes ☐ No
+- If **yes**, the application must address: respect, relationship and representation · reciprocity, accountability, community support · ownership, control, access and possession (OCAP) · royalty distribution · harm reduction, cultural safety · traditions/ceremonies and how protocols are validated by the community.
+- If **no**, state that there is no Indigenous content. *An application with Indigenous content that mishandles protocol is not funded, regardless of score.*
 
 ## 8. Integrity check
 

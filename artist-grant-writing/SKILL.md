@@ -70,7 +70,8 @@ Load these as needed — do not read them all up front.
 
 | File | Read it when |
 |---|---|
-| `references/funders.md` | Choosing a funder/component; checking eligibility, deadlines, criteria weights, the 2025 CCA restructure |
+| `references/funders.md` | Choosing a funder/component; eligibility, deadlines, the 2025 CCA restructure, **CALQ criteria weightings** |
+| `references/cca-components.md` | Applying to **Canada Council**: verified criteria weights, minimum scores, character limits, caps, the 10-minute support-material rule |
 | `references/writing-craft.md` | Drafting or editing any narrative section; running the jury simulation; killing clichés |
 | `references/budgets-and-fees.md` | Building a budget; CARFAC-RAAV fees, per diems, in-kind, contingency, common budget failures |
 | `references/visual-arts.md` | **Visual artists**: research, production, experimentation, travel, exhibition, residencies — locally, in Canada, and in Asia |
